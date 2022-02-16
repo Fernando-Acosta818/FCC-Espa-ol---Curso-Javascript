@@ -1,0 +1,20 @@
+body {
+    padding: 5rem;
+    background-color: rgb(43, 46, 107);
+}
+
+.titulo {
+    text-align: center;
+}
+.seccion {
+    background-color: rgb(36, 36, 36);
+    color: rgb(194, 194, 194);
+    border-radius: 10px;
+    padding: 2rem;
+    margin-bottom: 1rem;
+}
+
+pre {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 120%;
+}
